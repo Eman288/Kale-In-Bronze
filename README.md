@@ -23,8 +23,8 @@ With each step, the mansion reveals sinister layers, flickering lights, portrait
 
 ## Features
 - 🌟 **Rich Storyline**: An engaging plot with twists and emotional depth.  
-- 🧩 **Challenging Puzzles**: Brain-teasing puzzles integrated into the environment.  
-- 🎨 **Pixal Art Style**: Handcrafted visuals and animations.  
+- 🧩 **Challenging Puzzles**: Solve intricate puzzles to uncover hidden secrets of the mansion.
+- 🎨 **Pixel Art Style**: Enjoy a retro-inspired pixel art style, complete with handcrafted animations and atmospheric lighting.
   
 ## Installation
 1. Clone this repository:  
@@ -47,7 +47,7 @@ Alternatively, check the web version here: [Kale-In-Bronze]()
 - **Objective**:  
   Explore the mansion, solve puzzles, and uncover the secrets of the Bronze Realm.  
 - **Note!!**:  
-  - Version 0.0 still doesn't have the ability to move around and jump, this is just an early version
+  - This early version (0.0) is a work in progress. The core gameplay mechanics, like movement and jumping, will be added in upcoming releases.
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
