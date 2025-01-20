@@ -36,7 +36,7 @@ With each step, the mansion reveals sinister layers, flickering lights, portrait
    - Open the `Assets/Scenes/MainScene.unity` file.  
    - Click the **Play** button in the Unity Editor.
      
-Alternatively, check the web version here: [Kale-In-Bronze]()
+Alternatively, download the desktop version here: [Kale-In-Bronze](https://emma288.itch.io/kale-in-bronze)
 
 ## How to Play
 - **Controls**:  
